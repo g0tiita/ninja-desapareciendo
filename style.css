@@ -1,0 +1,20 @@
+* { 
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 980px;
+    margin: 0px auto;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    position: absolute; 
+}
+.marco-foto{
+    width: 200px;
+    height: 200px;
+    margin: 5px;
+    display: inline-block;
+}
